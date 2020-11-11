@@ -1,2 +1,3 @@
-<h1>MIPS SIMULATOR - Project 1 for CSE 140 - Computer Architecture</h1>
+##MIPS SIMULATOR - Project 1 for CSE 140 - Computer Architecture  
+
 **Implements all base MIPS instructions**
